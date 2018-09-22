@@ -55,7 +55,7 @@ There are more specific instances of these problems in sub-fields of machine lea
 * You can also construct catalogs of algorithms, and that may be useful to inspire you as to which algorithms to try.
 * You can race algorithms on a problem and report the results. Sometimes this is called a bake-off and is popular in some conference proceedings for presenting new algorithms.
 
-##Limited Transferability of Algorithm Results
+## Limited Transferability of Algorithm Results
 Generally, racing algorithms is anti-intellectual. It is rarely scientifically rigorous (apples to apples).
 
 A key problem with racing algorithms is that you cannot easily transfer the findings from one problem to another. If you believe this statement is true, then reading about algorithm races in papers and blogs does not inform you about which algorithm to try on your problem.
